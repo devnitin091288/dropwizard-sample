@@ -1,0 +1,5 @@
+distributionservice/DistributionServiceConfiguration.class
+distributionservice/api/DistributionResource.class
+distributionservice/health/HealthCheckService.class
+distributionservice/core/DistributionMessage.class
+distributionservice/DistributionServiceApplication.class

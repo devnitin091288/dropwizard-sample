@@ -1,0 +1,7 @@
+---
+logging:
+  level: INFO
+  loggers:
+    com.example: DEBUG
+template: Hello %s I am using the template
+defaultName: Application User
